@@ -67,7 +67,7 @@ DATABASES = {
         'NAME': 'app_db',
         'USER': 'app_user',
         'PASSWORD': '1234',
-        'HOST': '172.17.0.2',
+        'HOST': 'mysql-container',
         'PORT': '',  # Leave this empty to use the default MySQL port (3306).
     }
 
